@@ -1,5 +1,5 @@
-requests==2.31.0
-beautifulsoup4==4.12.3
+requests>=2.31.0
+beautifulsoup4>=4.12.2
 fake-useragent==1.4.0
 pymongo==4.6.1
 python-dotenv==1.0.1
@@ -8,4 +8,5 @@ aiohttp==3.9.3
 tqdm==4.66.2
 undetected-chromedriver==3.5.4
 selenium==4.18.1
-setuptools>=68.0.0 
+setuptools>=68.0.0
+cloudscraper==1.2.71 
